@@ -1,2 +1,2 @@
 # Calculator
-This is a WebCalc
+Hii, This is a web calculator made with html,css and javascript.
